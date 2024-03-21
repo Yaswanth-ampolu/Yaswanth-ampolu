@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ampolu+yaswanth!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate software engineer and a fresh graduate from IndiaIN</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on making a responsive portfolio website<br>🌱 I’m currently learning javascript<br>💬 Ask me about gaming or anything <br>⚡ Fun fact: From Linus to GitHub: Ever wondered who the mastermind behind Git was? Linus Torvalds, the same guy who created Linux
