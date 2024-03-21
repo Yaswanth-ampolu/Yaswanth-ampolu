@@ -20,17 +20,6 @@
 <hr/>
 
 <div align="center">
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/wanderingsoul_yash?igsh=YmFiaDdvdHFkeWI0&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://linkedin.com/in/yaswanth-ampolu-a2b110238) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@www.youtube.com/@gamepieceyt) 
-
-</div>
-
-<hr/>
-
-<hr/>
-
-<div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Yaswanth-ampolu/Yaswanth-ampolu/output/github-contribution-grid-snake.svg" />
@@ -39,6 +28,18 @@
 </div>
 
 <hr/>
+
+<hr/>
+
+<div align="center">
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/wanderingsoul_yash?igsh=YmFiaDdvdHFkeWI0&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://linkedin.com/in/yaswanth-ampolu-a2b110238) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@www.youtube.com/@gamepieceyt) 
+
+</div>
+
+<hr/>
+
 
 <hr/>
 
